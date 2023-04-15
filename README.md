@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm LocheMan</h1>
 <h3 align="center">A French developer aged 16</h3>
 
-- 🔭 I’m currently working on **Tool V1**
+- 🔭 I’m currently working on **Tool V2**
 
 - 🌱 I’m currently learning **Python, NodeJS**
 
